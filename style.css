@@ -159,7 +159,7 @@ nav button {
         font-size: 1.15rem;
     }
 }
-@media (max-width:310px){
+@media (max-width:400px){
     main{
         width: 1200px;
         height: 2300px;
@@ -296,7 +296,7 @@ nav button {
     right: 0px;
 }
 
-@media (max-width:310px){
+@media (max-width:400px){
     #page2{
         height: 1800px;
     }
@@ -405,7 +405,7 @@ nav button {
     font-weight: 500;
 }
 
-@media (max-width:310px){
+@media (max-width:400px){
     #page3 { 
         
         height: 2150px;
@@ -512,7 +512,7 @@ nav button {
     top: -17px;
     right: 100px;
 }
-@media (max-width:310px){
+@media (max-width:400px){
     #page4 {
         height: 2000px;
     }
@@ -597,7 +597,7 @@ nav button {
 .right5 h2{
     font-weight: 500;
 }
-@media (max-width:310px){
+@media (max-width:400px){
     #page5 {
         height: 2000px;
     }
@@ -751,7 +751,7 @@ nav button {
 .box8 button:hover{
     background-color: rgba(255, 0, 0, 0.766);
 }
-@media (max-width:310px){
+@media (max-width:400px){
     #page6 {
         height: 3500px;
     }
