@@ -661,7 +661,8 @@ nav button:hover {
         width: 650px;
         height: 600px;
         top: -60px;
-        right: 100px;
+        left: 140px;
+        /* right: 400px; */
     }
 }
 
